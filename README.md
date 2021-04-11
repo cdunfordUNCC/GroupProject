@@ -6,6 +6,8 @@ database. The database will consist of students, teachers, drivers, and restaura
 Students and teachers who order food will be able to review the driver and restaurant
 they ordered from.
 
+**<a href="https://github.com/cdunfordUNCC/GroupProject/raw/main/Project.docx">Project Description</a>**
+
 **Use Case for Rating System**
 <br>
 <img src="https://github.com/cdunfordUNCC/GroupProject/blob/main/Use%20Case.png" alt="Use Case for Rating System" height="500" width="500">
