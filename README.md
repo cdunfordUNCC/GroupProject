@@ -17,7 +17,7 @@ Reviews can be for one driver and one restaurant at a time per one order
 Reviewer must provide a rating
 Reviewer does not need to provide a description (may change)
 
-EERD (full database)
+<a href="https://github.com/cdunfordUNCC/GroupProject/raw/main/EERD%20fully%20normalized.mwb">EERD (full database)</a>
 
 MySQL Queries
 
