@@ -7,6 +7,7 @@ Students and teachers who order food will be able to review the driver and resta
 they ordered from.
 
 **Use Case for Rating System**
+<br>
 <img src="https://github.com/cdunfordUNCC/GroupProject/blob/main/Use%20Case.png" alt="Use Case for Rating System" height="500" width="500">
 
 **Business Rules:**
