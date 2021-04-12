@@ -25,12 +25,14 @@ Reviewer does not need to provide a description (may change)
 
 **<a href="https://github.com/cdunfordUNCC/GroupProject/raw/main/Data%20Dictionary.docx">Data Dictionary</a>**
 
+**<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/Campus%20Eats%20Script.sql">SQL Scripts</a>**
+
 **MySQL Queries**
 
 **Stored Procedure**
 
 **Web/App Implementation (Optional) or Description of Future Work**
 
-**MySQL dump**
+**<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/SQL%20Dump.sql">MySQL dump</a>**
 
 **Project Video**
