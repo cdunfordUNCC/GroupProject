@@ -27,12 +27,12 @@ Reviewer does not need to provide a description (may change)
 
 **<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/Campus%20Eats%20Script.sql">SQL Scripts</a>**
 
-**MySQL Queries**
+**<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/Query1.sql">MySQL Query1</a>**
 
-**Stored Procedure**
+**<a href=" ">Stored Procedure</a>**
 
 **Web/App Implementation (Optional) or Description of Future Work**
 
 **<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/SQL%20Dump.sql">MySQL dump</a>**
 
-**Project Video**
+**<a href=" ">Project Video</a>**
