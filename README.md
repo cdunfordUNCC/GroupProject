@@ -29,7 +29,9 @@ Reviewer does not need to provide a description (may change)
 
 **<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/Query1.sql">MySQL Query1</a>**
 
-**<a href=" ">Stored Procedure</a>**
+**<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/Query2.sql">MySQL Query2</a>**
+
+**<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/StoredProcedure.sql">Stored Procedure</a>**
 
 **Web/App Implementation (Optional) or Description of Future Work**
 
