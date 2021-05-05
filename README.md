@@ -35,4 +35,4 @@ Reviewer does not need to provide a description (may change)
 
 **<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/SQL%20Dump.sql">MySQL dump</a>**
 
-**<a href=" ">Project Video</a>**
+**<a href="https://docs.google.com/presentation/d/1W4dZ6T0KCXxIWcBfeITiHFS33E3IDEioprZ6cfe5ft8/edit?usp=sharing">Project Video</a>**
