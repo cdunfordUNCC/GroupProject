@@ -20,7 +20,7 @@ BEGIN
 
          SET theAVGInfo=
 
-         (SELECT AVG(ratings.overall_rating) FROM ratings
+         (SELECT AVG(ratings.restaurant_rating) FROM ratings
            INNER JOIN orders ON ratings.order_id= orders.order_id
           WHERE orders.restaurant_id = RestaurantID);
 
