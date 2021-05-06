@@ -31,6 +31,10 @@ Reviewer does not need to provide a description (may change)
 
 **<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/Query2.sql">MySQL Query2</a>**
 
+**<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/Indexes%20for%20Report%201.sql">Indexes for Report 1</a>**
+
+**<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/Indexes%20for%20Report%202.sql">Indexes for Report 2</a>**
+
 **<a href="https://github.com/cdunfordUNCC/GroupProject/blob/main/StoredProcedure.sql">Stored Procedure</a>**
 
 **Web/App Implementation (Optional) or Description of Future Work**
